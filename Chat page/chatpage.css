@@ -1,0 +1,30 @@
+.bgcontainer {
+   background-image: url(https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/chatbg.png);
+   background-size: cover;
+   font-family: Roboto;
+
+}
+.user {
+    background-color: #47a3f3;
+    color: #ffffff;
+    border-radius: 8px;
+    margin: 5px;
+    padding-left: 10px;
+    padding-top: 5px;
+    text-align: right;
+}
+
+.assistant {
+    background-color: #52606d;
+    border-radius: 8px;
+    color: #ffffff;
+    padding-right: 10px;
+    padding-top: 10px;
+    margin: 5px;
+
+}
+h2{
+    color: #ffffff ;
+    background-color: #323f4b;
+    text-align: center;
+}

@@ -1,0 +1,37 @@
+.card{
+font-family: Roboto;
+}
+
+.main img{
+    float: right;
+    width: 120px;
+}
+.main{
+    background-color: #fb4e71;
+    border-radius: 5px;
+    color: #ffffff;
+    width: 500px;
+    position:absolute;
+    padding: 1opx;
+}
+.image1{
+    display: flex;
+}
+.image1 .text{
+    margin-left: 5px;
+}
+
+.row{
+    margin-top: 10px;
+    margin-left: 10px;
+    display: flex;
+}
+.column{
+    margin-left: 5px;
+}
+.submit{
+    background-color: #123c55;
+    padding: 10px 10px 10px 10px;
+    width: fit-content;
+    margin-left: 170px;
+}

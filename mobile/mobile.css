@@ -1,0 +1,30 @@
+.bg-container{
+    border-style: solid;
+    border-color: #707070;
+    border-width: 2px;
+    height: 98vh;
+    width: 90vw;
+    padding: 0;
+}
+
+.main-heading{
+    font-family: Roboto;
+    padding: 18px;
+    font-weight: bold;
+    color: #0a1f44;
+}
+.img-container{
+    height: 50vh;
+    background-size: cover;
+    width: 90vw;
+}
+.unordered-list{
+    font-family: Roboto;
+    color: #0a1f44;
+    font-size: 18px;
+    font-weight: 500;
+}
+.btn {
+    text-align: center;
+    font-size: 16px;
+}

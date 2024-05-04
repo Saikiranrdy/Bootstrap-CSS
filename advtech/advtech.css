@@ -1,0 +1,46 @@
+.card-body{
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/arvrbg.png");    background-size: contain;
+   height: 100vh;
+   background-repeat: no-repeat;
+   background-position: center;
+   background-color: #ffffff;
+   font-family: Bree Serif;
+}
+.card-text{
+    color: #555e66;
+    font-weight: 800;
+}
+.title{
+    background-color: #fbfbfc;
+    border: 2px solid white;
+    width: fit-content;
+    height: 20vh;
+    position: absolute;
+    bottom: 0;
+    border-radius: 20px;
+    text-align: center;
+    font-family: Roboto;
+
+}
+.card-title{
+    color: #5752ab;
+}
+.button{
+    border: 1px solid white;
+    background-color: #ffffff;
+}
+.button1{
+    background-color: white;
+    height: 36px;
+    width: 128px;
+    border-radius: 10px;
+    color: #171f46;
+}
+.button2{
+    background-color: #171f46;
+    height: 36px;
+    width: 138px;
+    border-radius: 10px;
+    color: #ffffff;
+}
+

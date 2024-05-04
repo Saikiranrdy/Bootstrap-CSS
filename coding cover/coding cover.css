@@ -1,0 +1,19 @@
+.bgcontainer{
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/codingbg.png");
+    height: 100vh;
+    width: 400px;
+    padding: 5px;
+    background-size: cover;
+    font-size: 400px;
+    font-style: inherit;
+    font-family: Bree Serif;
+}
+.page{
+    color: rgb(238, 231, 231);
+    font-size: 40px;
+    border: solid 5px #48ee59;
+    margin: 10px 8px ;
+    padding-top: 8px;
+    text-align: center;
+    font-weight: bold;
+}
